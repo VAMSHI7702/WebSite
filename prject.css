@@ -1,0 +1,147 @@
+.logo {
+  color: orange;
+  font-size: 20px;
+  float: left;
+  padding-left: 20px;
+  margin-left: 100px;
+}
+.menu {
+  width: 400px;
+  float: left;
+  height: 70px;
+}
+ul {
+  display: flex;
+  text-align: center;
+}
+ul li {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 25px;
+  list-style: none;
+  text-align: center;
+}
+.space {
+  margin-left: 150px;
+}
+ul li a {
+  text-decoration: none;
+  color: black;
+  font-family: Arial;
+  font-weight: bold;
+  /* transform: 0.4s ease-in-out; */
+}
+ul a:hover {
+  color: orange;
+}
+.search {
+  float: left;
+  margin-left: 400px;
+  margin-top: 25px;
+}
+.srch {
+  font-family: "Times New Roman";
+  padding: 10px;
+  width: 200px;
+  border-radius: 5px;
+  border-color: black;
+  /* background: transparent; */
+  font-size: 30px;
+}
+.btn {
+  padding: 15px;
+  margin-top: 25px;
+  width: 120px;
+  font-family: Arial;
+  font-size: 20px;
+  border-radius: 5px;
+  color: white;
+  background-color: orange;
+  cursor: pointer;
+}
+.course {
+  color: black;
+  font-family: Arial;
+}
+.dev {
+  color: orange;
+}
+.p {
+  margin-left: 120px;
+  margin-top: 100px;
+}
+.bton {
+  width: 120px;
+  height: 50px;
+  background-color: orange;
+  border-radius: 10px;
+  border-color: orange;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.4 ease;
+}
+.bton:hover {
+  background-color: white;
+}
+.box {
+  width: 350px;
+  height: 500px;
+  background-color: black;
+  position: absolute;
+  /* align-items: center;
+  justify-content: center; */
+  top: 60%;
+  left: 50%;
+  transform: translate(80%, -50%);
+  border-radius: 10px;
+
+  /* background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 8) 50%,
+    rgba(0, 0, 0, 8%) 50%
+  ); */
+}
+.log-btn {
+  margin-left: 50px;
+  width: 250px;
+  height: 50px;
+  border-radius: 8px;
+  background-color: white;
+  color: orange;
+  margin-top: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+.eml,
+.pas {
+  background: transparent;
+  border-bottom: 1px solid orange;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-top: 50px;
+  margin-left: 60px;
+  color: white;
+  font-size: 20px;
+}
+.log-btn2 {
+  margin-left: 50px;
+  width: 250px;
+  height: 50px;
+  border-radius: 8px;
+  background-color: orange;
+  color: black;
+  margin-top: 30px;
+  font-size: 20px;
+  text-align: center;
+}
+.para {
+  color: white;
+  text-align: center;
+}
+.signup {
+  color: orange;
+}
+.logo {
+  background-color: white;
+}
